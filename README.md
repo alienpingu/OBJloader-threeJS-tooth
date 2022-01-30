@@ -1,4 +1,4 @@
-# Three.js boilerplate
+# Three.js Tooth LoaderOBJ
 This is a simple three.js boilerplate for new projects, feel free to contribute!
 
 ### Setup
